@@ -2,12 +2,12 @@ h1{
     margin-top: 70px;
     font-size: 20px;
     color: maroon;
-    font-family: Verdana;
+    font-family: Verdana, sans-serif;
     text-align: center;
     background-image: url("devinhouse.png");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center center;
 }
 body{
 background-color: yellow;
