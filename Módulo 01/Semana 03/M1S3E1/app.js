@@ -17,14 +17,10 @@ const procuraMinMax = (array) => {
          if (valor > max) {
           max = valor;
         }
-         
-       
       });
-  
       console.log('Menor: '+min  +' Maior: '+max);
     }
   } else console.error('Variavel não é array');
- 
 };
 
 procuraMinMax([-2,-2,-2,-2]);
