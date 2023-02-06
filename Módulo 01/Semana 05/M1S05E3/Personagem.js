@@ -15,6 +15,6 @@ export default class Personagem {
   usouKitMedico(){
     this.percentualVida = (this.percentualVida + 10) > 100 ? 100 : this.percentualVida +10;
   }
+ 
 
-  
 }
